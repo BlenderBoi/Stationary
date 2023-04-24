@@ -1,5 +1,5 @@
 # Stationary PDF
-## Primary Feature
+## Planned Feature
 
 ### Combine and Create PDF Pages
 - Combine PDF or Images (PNG, JPEG) into PDF
